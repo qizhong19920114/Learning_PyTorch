@@ -1,0 +1,5 @@
+- 发现 conda 还挺好用，因为可以避免一些 env setup 的冲突，如果我只有一个 env 的话
+- 而且 conda 还可以给 IntelliJ 用，也非常方便，这样 library index 自动都有
+
+Issue: "legacy-install-failure". pip install -r requirements.txt 的时候会遇到，在 conda env 里面一直过不了..
+Answer： 就是需要 python3.7, 不能用 python 3.8 或 3.9
