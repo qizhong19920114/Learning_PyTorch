@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pytorch==2.0.1
+transformers==4.35.2
+sentence-transformers==2.2.2
+pytorch_lightning==2.1.2
