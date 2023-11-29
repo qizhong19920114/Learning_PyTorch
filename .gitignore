@@ -1,8 +1,8 @@
 .DS_Store
 openai_api.json
 olympics_sections_document_embeddings.csv
-Transformer_Learning/oreilly-transformers-video-series/data/flicker_images
 OpenAI_GPT_Exploration.ipynb
 Question_answering_using_embeddings.ipynb
 Basic Graph Representation Exercise.ipynb
 __pycache__
+Transformer_Learning/Orielly_Transformer_Course/data/flicker_images
